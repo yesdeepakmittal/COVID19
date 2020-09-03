@@ -11,7 +11,7 @@ This repository contains codes for the COVID19 Analysis Using Python and its Pro
 * Anyone can find these images by executing the **COVID19_ Data Analysis using Python.ipynb** file or by visiting **https://www.kaggle.com/yesdeepakmittal/covid19-data-analysis-using-python**
 * All the images are saved using **Download png** icon on every image made using Plotly
 
-### 4️⃣ Dateset Source and Credit
+### 4️⃣ Dateset Source and Credit 
 **COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University**
 * https://github.com/CSSEGISandData/COVID-19
 
