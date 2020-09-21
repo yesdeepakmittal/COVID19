@@ -7,7 +7,7 @@ This repository contains codes for the COVID19 Analysis Using Python and its Pro
 * For Data Visualization and hovering over the images visit: https://www.kaggle.com/yesdeepakmittal/covid19-data-analysis-using-python
 
 ### 3️⃣ How to get started?
-* Open the <a href="https://github.com/yesdeepakmittal/COVID19/blob/master/COVID19_%20Data%20Analysis%20using%20Python.ipynb">notebook</a> in a jupyter notebook or in any cloud based jupyter notebook such as <a href="https://colab.research.google.com/notebooks/welcome.ipynb>Google Colab</a> and run the code cell. 
+* Open the <a href="https://github.com/yesdeepakmittal/COVID19/blob/master/COVID19_%20Data%20Analysis%20using%20Python.ipynb">notebook</a> in a jupyter notebook or in any cloud based jupyter notebook such as <a href="https://colab.research.google.com/notebooks/welcome.ipynb">Google Colab</a> and run the code cell. 
 * You can use this code for the same data analysis or you can <a href="https://github.com/yesdeepakmittal/COVID19"><img src="https://img.shields.io/github/forks/yesdeepakmittal/COVID19?label=fork&style=social"></a> this repository to make some changes and then you can recommend some change and open a pull request for the same. 
   
 ### 4️⃣ Image
